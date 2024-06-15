@@ -2,7 +2,6 @@
 from langchain_google_genai import ChatGoogleGenerativeAI, HarmBlockThreshold, HarmCategory
 from langchain_core.messages import HumanMessage
 from dotenv import load_dotenv
-import chainlit as cl
 import os
 import json
 
