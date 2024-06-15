@@ -1,0 +1,5 @@
+/venv
+/.env.local
+/.files
+/.chainlit
+/.pytest_cache
